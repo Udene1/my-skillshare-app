@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-skillshare-app/static/css/main.677f32a2.css",
-    "main.js": "/my-skillshare-app/static/js/main.9a440908.js",
+    "main.js": "/my-skillshare-app/static/js/main.0976f588.js",
     "static/js/453.574446c7.chunk.js": "/my-skillshare-app/static/js/453.574446c7.chunk.js",
     "index.html": "/my-skillshare-app/index.html",
     "main.677f32a2.css.map": "/my-skillshare-app/static/css/main.677f32a2.css.map",
-    "main.9a440908.js.map": "/my-skillshare-app/static/js/main.9a440908.js.map",
+    "main.0976f588.js.map": "/my-skillshare-app/static/js/main.0976f588.js.map",
     "453.574446c7.chunk.js.map": "/my-skillshare-app/static/js/453.574446c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.677f32a2.css",
-    "static/js/main.9a440908.js"
+    "static/js/main.0976f588.js"
   ]
 }
